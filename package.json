@@ -1,22 +1,22 @@
 {
-  "name": "liriBot",
+  "name": "liri-node-app",
   "version": "1.0.0",
   "description": "",
-  "main": "keys.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/morettiamye/liriBot.git"
+    "url": "git+https://github.com/morettiamye/liri-node-app.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/morettiamye/liriBot/issues"
+    "url": "https://github.com/morettiamye/liri-node-app/issues"
   },
-  "homepage": "https://github.com/morettiamye/liriBot#readme",
+  "homepage": "https://github.com/morettiamye/liri-node-app#readme",
   "dependencies": {
     "dotenv": "^6.0.0",
     "moment": "^2.22.2",
